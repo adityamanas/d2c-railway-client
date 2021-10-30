@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/d2c-ticket-booking/static/css/main.52663cc6.chunk.css",
-    "main.js": "/d2c-ticket-booking/static/js/main.f0dbed10.chunk.js",
-    "main.js.map": "/d2c-ticket-booking/static/js/main.f0dbed10.chunk.js.map",
-    "runtime-main.js": "/d2c-ticket-booking/static/js/runtime-main.d8c8932b.js",
-    "runtime-main.js.map": "/d2c-ticket-booking/static/js/runtime-main.d8c8932b.js.map",
-    "static/js/2.8548c4cd.chunk.js": "/d2c-ticket-booking/static/js/2.8548c4cd.chunk.js",
-    "static/js/2.8548c4cd.chunk.js.map": "/d2c-ticket-booking/static/js/2.8548c4cd.chunk.js.map",
-    "index.html": "/d2c-ticket-booking/index.html",
-    "static/css/main.52663cc6.chunk.css.map": "/d2c-ticket-booking/static/css/main.52663cc6.chunk.css.map",
-    "static/js/2.8548c4cd.chunk.js.LICENSE.txt": "/d2c-ticket-booking/static/js/2.8548c4cd.chunk.js.LICENSE.txt"
+    "main.css": "/d2c-railway-client/static/css/main.52663cc6.chunk.css",
+    "main.js": "/d2c-railway-client/static/js/main.f0dbed10.chunk.js",
+    "main.js.map": "/d2c-railway-client/static/js/main.f0dbed10.chunk.js.map",
+    "runtime-main.js": "/d2c-railway-client/static/js/runtime-main.0de052e8.js",
+    "runtime-main.js.map": "/d2c-railway-client/static/js/runtime-main.0de052e8.js.map",
+    "static/js/2.8548c4cd.chunk.js": "/d2c-railway-client/static/js/2.8548c4cd.chunk.js",
+    "static/js/2.8548c4cd.chunk.js.map": "/d2c-railway-client/static/js/2.8548c4cd.chunk.js.map",
+    "index.html": "/d2c-railway-client/index.html",
+    "static/css/main.52663cc6.chunk.css.map": "/d2c-railway-client/static/css/main.52663cc6.chunk.css.map",
+    "static/js/2.8548c4cd.chunk.js.LICENSE.txt": "/d2c-railway-client/static/js/2.8548c4cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8c8932b.js",
+    "static/js/runtime-main.0de052e8.js",
     "static/js/2.8548c4cd.chunk.js",
     "static/css/main.52663cc6.chunk.css",
     "static/js/main.f0dbed10.chunk.js"
