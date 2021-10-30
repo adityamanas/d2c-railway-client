@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/d2c-railway-client/static/css/main.52663cc6.chunk.css",
-    "main.js": "/d2c-railway-client/static/js/main.f0dbed10.chunk.js",
-    "main.js.map": "/d2c-railway-client/static/js/main.f0dbed10.chunk.js.map",
+    "main.css": "/d2c-railway-client/static/css/main.77274b97.chunk.css",
+    "main.js": "/d2c-railway-client/static/js/main.649283f8.chunk.js",
+    "main.js.map": "/d2c-railway-client/static/js/main.649283f8.chunk.js.map",
     "runtime-main.js": "/d2c-railway-client/static/js/runtime-main.0de052e8.js",
     "runtime-main.js.map": "/d2c-railway-client/static/js/runtime-main.0de052e8.js.map",
-    "static/js/2.8548c4cd.chunk.js": "/d2c-railway-client/static/js/2.8548c4cd.chunk.js",
-    "static/js/2.8548c4cd.chunk.js.map": "/d2c-railway-client/static/js/2.8548c4cd.chunk.js.map",
+    "static/js/2.1a00baee.chunk.js": "/d2c-railway-client/static/js/2.1a00baee.chunk.js",
+    "static/js/2.1a00baee.chunk.js.map": "/d2c-railway-client/static/js/2.1a00baee.chunk.js.map",
     "index.html": "/d2c-railway-client/index.html",
-    "static/css/main.52663cc6.chunk.css.map": "/d2c-railway-client/static/css/main.52663cc6.chunk.css.map",
-    "static/js/2.8548c4cd.chunk.js.LICENSE.txt": "/d2c-railway-client/static/js/2.8548c4cd.chunk.js.LICENSE.txt"
+    "static/css/main.77274b97.chunk.css.map": "/d2c-railway-client/static/css/main.77274b97.chunk.css.map",
+    "static/js/2.1a00baee.chunk.js.LICENSE.txt": "/d2c-railway-client/static/js/2.1a00baee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0de052e8.js",
-    "static/js/2.8548c4cd.chunk.js",
-    "static/css/main.52663cc6.chunk.css",
-    "static/js/main.f0dbed10.chunk.js"
+    "static/js/2.1a00baee.chunk.js",
+    "static/css/main.77274b97.chunk.css",
+    "static/js/main.649283f8.chunk.js"
   ]
 }
